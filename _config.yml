@@ -18,18 +18,18 @@ avatar: https://www.gravatar.com/avatar/c08cc483e9d3da7cc942171ea3fb4460?s=400
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: qixingchen@lovelive.moe
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Qixingchen
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: Qixingchen
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: Qixingchen
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
