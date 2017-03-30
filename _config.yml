@@ -6,7 +6,7 @@
 name: Qixingchen
 
 # Short bio or description (displayed in the header)
-description: 
+description: 星辰星辰星~
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.gravatar.com/avatar/c08cc483e9d3da7cc942171ea3fb4460?s=400
@@ -25,9 +25,9 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: http://loli.xing.moe/feed.xml
   twitter: Qixingchen
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/4637363/qi-xingchen
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: +祈星辰
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics:UA-65395208-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
