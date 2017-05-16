@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这里是星辰 w </br>
+很高兴见到你
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Android开发 </br>
+政治坐标 1 1.2 0.8 ，3.13 -3.49
 
 ### Contact me
 
 [qixingchen@lovelive.moe](mailto:qixingchen@lovelive.moe)
+
+### Links
+
+[好诶!是千千!](https://wwyqianqian.github.io) </br>
+是用来每天 prpr(以及 Merge )的千千w，♀ ，曾喜欢 VOCALOID CHINA，曾玩 PenBeat，现在在学习编程
+
+[Rikka](https://shizuku.moe) </br>
+可爱的 Rikka
+
+[烧饼](http://feng.moe) </br>
+超厉害的 Android 开发 w
