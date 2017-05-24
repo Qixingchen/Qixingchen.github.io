@@ -2,7 +2,7 @@
 layout: post
 title: Data Binding Formatter Plugin
 ---
-
+##### 旧文转移计划
 
 现已在 [JetBrans Plugin 中心提供下载 ](https://plugins.jetbrains.com/plugin/8616-data-binding-formatter)
 
