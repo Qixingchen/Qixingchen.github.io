@@ -23,7 +23,7 @@ Flutter 是一个使用同一代码构建高性能,高保真的 iOS 与 Android 
 ### Flutter 优势
 
 1. 拥抱差异.包括 iOS Android 两端在滚动行为,图标与排版上的差异都可以使用同一代码来实现.
-1. 高性能.基于底层代码(Android 上为 C++ with NDK,iOS 上为 C++ with LLVM),不使用 WebView 渲染,不涉及翻译.能够保证 60 fps 的绘制祯率.
+1. 高性能.基于底层代码(Android 上为 C++ with NDK,iOS 上为 C++ with LLVM),不使用 WebView 渲染,不涉及翻译.能够保证 60 fps 的绘制帧率.
 1. 可以与原生代码互调.
 1. 提供了大部分 Material Design 控件的实现(甚至比 Android Design Support 实现的更多).
 1. 足够小. SDK 大小在两端都在 8MB 左右,可以接受这样的体积增加.
