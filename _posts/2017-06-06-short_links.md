@@ -4,11 +4,11 @@ title: 一个挺不错的短链服务
 ---
 
 ## 缘起
-SSR 支持服务器列表订阅了,Gist 的链接比较长,就像找一个短链服务来用
+SSR 支持服务器列表订阅了,Gist 的链接比较长,就想找一个短链服务来用
  
 ## rebrandly
 [rebrandly](https://www.rebrandly.com)
-支持使用 custom domain  
+### 支持使用 custom domain  
 在 Domains 页面选择 “New Domain”,然后选择页面最下方的 setup DNS 即可.  
  
 #### 后缀支持编辑  
@@ -18,6 +18,9 @@ SSR 支持服务器列表订阅了,Gist 的链接比较长,就像找一个短链
  
 #### 后缀支持emoji
 可以使用 your.domain/😘 这样的链接
+
+#### 支持 HTTPS 链接
+只要你的域名提供了证书即可.我使用 cloudflare 来做这件事.
  
 #### 支持 API
 API 还是挺全的,
