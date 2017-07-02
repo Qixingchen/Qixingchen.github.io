@@ -14,7 +14,11 @@ Android开发
 
 ### Contact me
 
-[qixingchen@lovelive.moe](mailto:qixingchen@lovelive.moe)
+[qixingchen@lovelive.moe](mailto:qixingchen@lovelive.moe)   
+
+telegram : https://t.me/QiXingchen
+
+more : 见底部
 
 ### Links
 
