@@ -16,7 +16,7 @@ Android开发
 
 [qixingchen@lovelive.moe](mailto:qixingchen@lovelive.moe)   
 
-telegram : https://t.me/QiXingchen
+telegram : [@QiXingchen](https://t.me/QiXingchen)
 
 more : 见底部
 
